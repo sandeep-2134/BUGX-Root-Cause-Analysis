@@ -1,0 +1,2 @@
+# Sample buggy repo dependencies
+pytest>=8.0.0
